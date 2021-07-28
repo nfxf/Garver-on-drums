@@ -25,3 +25,4 @@ from,
 Casey
 
 
+http://xdrcft.com/x/xmgmt/PREFERRED%20LINEUP.txt
